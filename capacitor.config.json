@@ -1,0 +1,7 @@
+{
+  "appId": "com.auth0demo.app",
+  "appName": "auth0-demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
